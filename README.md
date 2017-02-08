@@ -1,2 +1,2 @@
 # Fake-Facebook-Login-Page
-Cloned facebook login page
+This repository contains a replica of the facebook landing page
